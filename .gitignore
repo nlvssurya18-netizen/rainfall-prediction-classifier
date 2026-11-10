@@ -1,0 +1,11 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Large trained ML models
+*.pkl
+*.joblib
+
+# Mac files
+.DS_Store
